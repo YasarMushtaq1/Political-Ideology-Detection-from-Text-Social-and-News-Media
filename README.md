@@ -1,6 +1,6 @@
 # Political Party Classification from Twitter Posts
 
-DS 504 Data Mining and Decision Support
+DS 504 Data Mining and Decision Support - Final submission
 ## Project Overview
 
 This project classifies political party affiliation (Democrat vs Republican) from Twitter posts using two approaches:
