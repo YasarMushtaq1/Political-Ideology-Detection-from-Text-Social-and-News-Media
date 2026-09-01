@@ -1,14 +1,6 @@
 # Political Party Classification from Twitter Posts
 
-DS 504 Data Mining and Decision Support - Team 11
-
-## Team Members
-
-- **Sultanbek Mukhamedkulov** - Data Lead & Baseline Model
-- **Baimyrza Kalmyrzayev** - Target Model Development  
-- **Mohammad Hashim Halimi** - Evaluation & Metrics
-- **Sayed Yasar Ahmad Mushtaq** - Data Preparation & Documentation
-
+DS 504 Data Mining and Decision Support
 ## Project Overview
 
 This project classifies political party affiliation (Democrat vs Republican) from Twitter posts using two approaches:
